@@ -1,0 +1,3 @@
+rootProject.name = 'UTF8Map'
+
+include ':app'
