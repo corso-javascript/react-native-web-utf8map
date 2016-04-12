@@ -5,21 +5,31 @@ Are you undecided between the Web and Native or both? With UTF8Map you get an id
 
 ## Usage
 
+Setup the environment, Android SDK, Xcode, and..
 ```
+npm install -g react-native
 npm install
 ```
 
-### run on the Web
+### Run on the Web
 ```
 npm run start
 ```
 
-### run on Android (native or simulator)
+### Run inside Cordova Android (WebView)
+
+You need to `npm run start` in another console and put you development computer ip in `cordova/www/js/index.js`
+
+```
+cordova:android:start
+```
+
+### Run on Android (native or simulator)
 ```
 react-native run-android
 ```
 
-### run on iOS (simulator)
+### Run on iOS (simulator)
 ```
 react-native run-ios
 ```
