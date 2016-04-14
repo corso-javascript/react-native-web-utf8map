@@ -6,7 +6,7 @@ import React, {
   View
 } from 'react-native';
 
-import App from './app/views/index.web'
+import App from './app/views/index'
 
 
 AppRegistry.registerComponent('UTF8Map', () => App);
