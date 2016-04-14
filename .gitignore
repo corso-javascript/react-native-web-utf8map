@@ -34,3 +34,4 @@ local.properties
 #
 node_modules/
 npm-debug.log
+android/app/my-release-key.keystore
