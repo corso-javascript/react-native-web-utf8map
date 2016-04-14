@@ -6,7 +6,7 @@
     "start": "node node_modules/react-web/local-cli/cli.js start",
     "android:start": "react-native run-android",
     "android:pkg:build": "cd android && ./gradlew assembleRelease",
-    "android:pkg:install": "adb install android/app/build/outputs/apk/app-debug-unaligned.apk",
+    "android:pkg:install": "adb install android/app/build/outputs/apk/app-release.apk",
     "cordova:android:start": "(cd cordova && cordova run android)"
   },
   "dependencies": {
