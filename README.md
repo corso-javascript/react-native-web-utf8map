@@ -3,6 +3,8 @@ An infinite scrolling example app with React Native + React Native Web
 
 ![UTF8Map ReactJS, ReactNative, React Native Web](https://cloud.githubusercontent.com/assets/8074/14461026/0d960ecc-00c1-11e6-8c05-a0a486170081.gif)
 
+[![UTF8Map on Google Play](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Google_Play_logo_2015.PNG/220px-Google_Play_logo_2015.PNG)](https://play.google.com/store/apps/details?id=com.utf8map)
+
 Are you undecided between the Web and Native or both? With UTF8Map you get an idea of the performance you could get and the code base is the same, you just have to choose to render the code in a WebView or in Native.
 
 ## Usage
